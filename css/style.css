@@ -1,4 +1,4 @@
-* {
+body {
   			box-sizing: border-box;
 		}
 		h1 {
@@ -42,9 +42,7 @@
 			clear: right;
 		}
 
-    p#ChickDish {
-      background-color: 
-    }
+    
 
 		.row {
 			width: 100%;
@@ -132,4 +130,3 @@
   .col-md-12 {
     width: 100%;
   }
-}
